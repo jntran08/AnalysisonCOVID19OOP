@@ -27,7 +27,7 @@ public:
 	//Bubble and Quick sort
 	void bubbleSort(int* arr); //Bubble Sort
 	void quickSort(int lo, int hi); //quick sort
-	// Extra credit – Shell and Adaptive sort methods
+	// Extra credit â€“ Shell and Adaptive sort methods
 	void shellSort1(); //Shell Sort
 	int* adaptiveSort(int* arr); //Adaptive Sort
 };
