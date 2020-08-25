@@ -30,6 +30,8 @@ For LinkedSortedArray data structures, an array of size K, call this array A.
 Insert elements into array A and make sure the elements are kept in sorted order. As soon as the
 array A of size K is filled up and we want to insert the (K+1)th element. Rather than creating a larger array, we would create another array B (of size K); move half the elements in A into the array B such that the largest number in A is less than the smallest number in B. The array A is now linked to array B as in a LinkedList.
 
-Project 3: Sorting Algorithm
+Project 3: Sorting Algorithms
+
+Different Sorting Algorithms is applied in this project to explore its complexities for different sizes of data entry
 
 Please refer to Project 3 Report Doc
