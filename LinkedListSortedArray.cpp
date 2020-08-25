@@ -22,7 +22,7 @@ template <class DT>
 class SortedArray {
 	friend ostream& operator<< (ostream& os, SortedArray<DT>& obj) {//ostream operator 
 		for (int i = 0; i < obj.size; i++) { // loop through the array 
-			os << obj.elements[i] << " "; // Output the objects stored in the array in a single line, objects are separated by a spaceand followed by an “endl”
+			os << obj.elements[i] << " "; // Output the objects stored in the array in a single line, objects are separated by a spaceand followed by an â€œendlâ€
 		}
 		return os;
 	};
